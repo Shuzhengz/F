@@ -50,7 +50,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
          }
 
          switch(cmd) {
-            // fuck
+            // f***
             case 'uck':
                 bot.sendMessage({
                     to: channelID,
