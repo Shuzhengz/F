@@ -1,0 +1,11 @@
+{
+    "name": "F",
+    "version": "1.0.1",
+    "description": "Paying respect",
+    "main": "bot.js",
+    "author": "Tom Zhang",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^2.4.4"
+    }
+}

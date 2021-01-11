@@ -1,2 +1,1 @@
-# F
-Discord bot that pays respect
+# FDiscord bot that pays respectDon't look too deep into the code I didn't spend time on this lol
